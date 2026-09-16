@@ -1,6 +1,6 @@
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2027 | Submitted</div><img src='images/project-bitstack.png' alt="BitStack accelerator architecture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/project-bitstack.png' alt="BitStack accelerator architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 BitStack: A Same-Bit Stacking Architecture for Adaptive-Bitwidth Inference \\
@@ -22,7 +22,7 @@ A three-body probabilistic Ising machine with in-memory computing based on dual-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAS-I 2026 | In preparation</div><img src='images/project-rhcu-ising.png' alt="RHCU Ising machine architecture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In preparation</div><img src='images/project-rhcu-ising.png' alt="RHCU Ising machine architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Energy-efficient Probabilistic Ising Machine with Voltage-controlled MRAM and Reconfigurable Hamiltonian Computing Unit \\
