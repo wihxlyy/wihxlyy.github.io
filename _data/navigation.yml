@@ -12,8 +12,8 @@ main:
   - title: "Projects"
     url: "/#projects"
 
-  - title: "Learning Focus"
-    url: "/#learning-focus"
+  - title: "Engineering Skills"
+    url: "/#engineering-skills"
 
   - title: "Contact"
     url: "/#contact"
