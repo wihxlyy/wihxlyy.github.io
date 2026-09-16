@@ -2,3 +2,9 @@ _site/
 push.sh
 .DS_Store
 /github_myprofile_updater/README.md
+
+# Local source PDFs used to prepare project images
+/BitStack.pdf
+/Drawing in AnalogIM_IEDM2025_v3.pdf
+/Drawing in Research_Summary_Template.pdf
+/IntenMag.pdf
