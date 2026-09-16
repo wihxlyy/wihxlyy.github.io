@@ -1,6 +1,6 @@
 # Site settings
 title: "wihxlyy | Personal Homepage"
-description: "Electrical engineering student exploring digital systems, RTL design, and hardware verification."
+description: "Master's student in Electrical Engineering at Columbia University researching energy-efficient domain-specific edge chips."
 repository: "wihxlyy/wihxlyy.github.io"
 url: "https://wihxlyy.github.io"
 baseurl: ""
@@ -9,8 +9,8 @@ locale: "en-US"
 # Author profile
 author:
   name: "wihxlyy"
-  avatar: "images/profile.png"
-  bio: "Electrical engineering student | Digital design and hardware verification"
+  avatar: "images/profile.jpg"
+  bio: "Master's student in Electrical Engineering at Columbia University"
   uri: "https://github.com/wihxlyy"
   github: "wihxlyy"
 

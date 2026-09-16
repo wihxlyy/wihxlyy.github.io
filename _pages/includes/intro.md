@@ -1,7 +1,7 @@
 # About Me
 
-I am an electrical engineering student interested in digital systems, RTL design, and hardware verification.
+I am currently a master's student in the Department of Electrical Engineering at [Columbia University](https://www.columbia.edu/), where I am supervised by [Prof. Zishan Wan](https://zishenwan.github.io/).
 
-I enjoy working with Verilog and SystemVerilog, understanding how digital designs behave, and turning technical study into clear project notes. This site is a small record of my projects, learning focus, and ongoing experiments.
+I received my bachelor's degree in Electronic Engineering from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), Hong Kong, China, in June 2026, under the supervision of [Prof. Qiming Shao](https://ece.hkust.edu.hk/eeqshao).
 
-Most of my public work is available on [GitHub](https://github.com/wihxlyy).
+My research interests lie in energy-efficient, domain-specific edge chips for diverse workloads, including general-purpose AI models and optimization problems. I am particularly interested in cross-layer innovations that span algorithms, architectures, circuits, and device design.
