@@ -6,7 +6,6 @@
 <div style="text-align:center;font-size:.72em;line-height:1.5;margin-top:.7em;">
 <strong style="display:block;font-size:1.12em;">28 nm VCMA-MTJ MRAM</strong>
 <span style="display:block;color:#6f6f6f;">In-memory Ising machine</span>
-<span style="display:block;color:#6f6f6f;">IEDM'25</span>
 </div>
 </div>
 <div style="flex:0 1 203px;max-width:203px;min-width:0;">
@@ -14,7 +13,6 @@
 <div style="text-align:center;font-size:.72em;line-height:1.5;margin-top:.7em;">
 <strong style="display:block;font-size:1.12em;">28 nm AI Accelerator</strong>
 <span style="display:block;color:#6f6f6f;">Adaptive-bitwidth inference, CNNs and LLMs</span>
-<span style="display:block;color:#6f6f6f;">Submitted</span>
 </div>
 </div>
 </div>
