@@ -4,13 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
+
+  - title: "What I Am Building"
+    url: "/#what-i-am-building"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
 
   - title: "Learning Focus"
-    url: "/#-learning-focus"
+    url: "/#learning-focus"
 
   - title: "Contact"
-    url: "/#-contact"
+    url: "/#contact"
