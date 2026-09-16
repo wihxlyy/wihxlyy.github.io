@@ -12,6 +12,9 @@ main:
   - title: "Projects"
     url: "/#projects"
 
+  - title: "Chip Gallery"
+    url: "/#chip-gallery"
+
   - title: "Engineering Skills"
     url: "/#engineering-skills"
 

@@ -17,6 +17,8 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
+{% include_relative includes/chips.md %}
+
 {% include_relative includes/engineering.md %}
 
 {% include_relative includes/others.md %}
