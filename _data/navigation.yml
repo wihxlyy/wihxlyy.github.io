@@ -6,14 +6,14 @@ main:
   - title: "Research Interests"
     url: "/#research-interests"
 
+  - title: "Chip Gallery"
+    url: "/#chip-gallery"
+
   - title: "News"
     url: "/#news"
 
   - title: "Projects"
     url: "/#projects"
-
-  - title: "Chip Gallery"
-    url: "/#chip-gallery"
 
   - title: "Engineering Skills"
     url: "/#engineering-skills"
