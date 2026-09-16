@@ -7,7 +7,7 @@ Personal homepage for `wihxlyy`, built with Jekyll and the AcadHomepage template
 - `_config.yml` contains the site title, description, avatar, and social links.
 - `_pages/about.md` controls the page order.
 - `_pages/includes/` contains the text for each homepage section.
-- `images/profile.png` is the profile image shown in the sidebar.
+- `images/yunyang-lu.jpg` is the profile image shown in the sidebar.
 
 ## Run locally
 

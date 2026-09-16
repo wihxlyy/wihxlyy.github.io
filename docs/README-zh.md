@@ -7,7 +7,7 @@
 - `_config.yml`：修改主页标题、简介、头像和社交链接。
 - `_pages/about.md`：控制主页各个部分的显示顺序。
 - `_pages/includes/`：存放 About、News、Projects 等部分的正文。
-- `images/profile.png`：侧边栏头像。
+- `images/yunyang-lu.jpg`：侧边栏头像。
 
 ## 本地运行
 
