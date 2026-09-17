@@ -1,6 +1,6 @@
 # About Me
 
-I am currently a master's student in the Department of Electrical Engineering at [Columbia University](https://www.columbia.edu/), where I am supervised by [Prof. Zishan Wan](https://zishenwan.github.io/).
+I am currently a master's student in the Department of Electrical Engineering at [Columbia University](https://www.columbia.edu/), where I am supervised by [Prof. Zishen Wan](https://zishenwan.github.io/).
 
 I received my bachelor's degree in Electronic Engineering from the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), Hong Kong, China, in June 2026, under the supervision of [Prof. Qiming Shao](https://ece.hkust.edu.hk/eeqshao).
 
