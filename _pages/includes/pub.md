@@ -1,15 +1,5 @@
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/project-bitstack.png' alt="BitStack accelerator architecture" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-BitStack: A Same-Bit Stacking Architecture for Adaptive-Bitwidth Inference \\
-C. Zhou*, <strong>Y. Lu</strong>* et al. *(Co-author; submitted)*
-
-An accelerator architecture for input-dependent mixed-precision inference. The project combines bit-stacking computation, early stopping, calibration, and hardware-software co-design to reduce memory traffic and energy consumption for CNNs, LLMs, and DeiT-S models.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERMAG 2026</div><img src='images/project-three-body-im.png' alt="Three-body probabilistic Ising machine" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
