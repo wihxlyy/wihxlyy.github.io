@@ -1,6 +1,6 @@
 # Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/project-placeholder.png' alt="" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2027 | Submitted</div><img src='images/project-placeholder.png' alt="" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Energy-efficient AI Accelerator Architecture for CNN and LLM Inference \\
