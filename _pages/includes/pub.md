@@ -1,5 +1,15 @@
 # Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/project-placeholder.png' alt="" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Energy-efficient AI Accelerator Architecture for CNN and LLM Inference \\
+C. Zhou*, <strong>Y. Lu</strong>* et al. *(Co-author; submitted)*
+
+An accelerator architecture developed through algorithm-hardware co-design for efficient inference on CNNs and LLMs, covering the computation engine, RTL implementation, and integration into a RISC-V-based system. Further details will be released upon publication.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERMAG 2026</div><img src='images/project-three-body-im.png' alt="Three-body probabilistic Ising machine" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
